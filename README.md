@@ -1,9 +1,9 @@
-# satheeskumar3.github.io
-#<!DOCTYPE html>
-#<html>
-#<head>
-#<style>
-#body
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body
 { 
 background-image:url('https://www.dailypioneer.com/uploads/2021/story/images/big/ipl-2022--bcci-expects-rs-5000-crore-windfall-as-base-price-for-new-teams-kept-at-rs-2000-crore-2021-08-31.jpg');
 background-repeat:no-repeat;
